@@ -1,3 +1,3 @@
 # HackMIT
 
-A immersive virtualreality asteroid experience (Won GoogleVR prize at HackMIT)
+A immersive virtual reality asteroid experience (Won GoogleVR prize at HackMIT)
